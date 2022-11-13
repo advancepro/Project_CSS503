@@ -97,3 +97,18 @@ result = handle.read()
 print(len(result))
 
 - Getting the result code and count how many words inclueded in the website
+
+--------------Project Part 2 -----------------
+Instructions:
+
+running project_part2.py
+
+Warning!
+
+File contains pip installations that should be made before running code.
+
+The project_part2.py scrawls arbuz.kz and parses data. It goes to each category of the shop and takes product list from there. 
+
+After running the code, dataset is created and stored in the file data.xlsx. This data was converted to data.csv file.
+
+Code also contains some statics derived with using data obtained from the website
