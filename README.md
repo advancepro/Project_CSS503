@@ -22,6 +22,8 @@ In the first step, the URL page was converted to CSV file. The information of th
 Code Introduction
 When you execute the script, it will save the file arbuz.csv in the current working directory.
 
+The data has ben converted into CSV File, in order to reach data individually
+
 import pandas
 import requests
 import pandas as pd
