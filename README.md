@@ -62,7 +62,7 @@ overview of the values each column contains. You can do this with .describe()
 -	nba.describe()
  
 
-Individual Work
+--------------Individual Work-----------------
 
 Libraries used for execution
 *****************************
