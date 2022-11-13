@@ -15,7 +15,6 @@ Project 1: Final Submissions
 
 Date: November 13, 2022
 Team: 3
-ID: 221107078 
 
 Instruction
 In the first step, the URL page was converted to CSV file. The information of the converted files data values are taken with python code.
